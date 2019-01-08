@@ -1,0 +1,2 @@
+../../tmp/hugo -b http://www.cs.princeton.edu/~ts20/
+scp -r public/* ts20@portal.cs.princeton.edu:~/public_html
