@@ -10,31 +10,49 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Concurrency: semantics, testing, verification",
+    "Heterogeneous Systems: GPUs, accelerators",
+    "Compilers: portability, optimizations"    
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "Imperial College London"
+  year = 2018
+  adviser = "Advisor: Alastair Donaldson"
+  thesis = "Thesis: Device-wide Barrier Synchronisation on Graphics Processing Units"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Computer Science"
+  institution = "University of Utah"
+  year = 2014
+  adviser = "Advisor: Ganesh Gopalakrishnan and Zvonimir Rakamaric"
+  thesis = "Thesis: Testing and Exposing Weak GPU Memory Models"
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+#[[education.courses]]
+#  course = "BSc in Artificial Intelligence"
+#  institution = "Massachusetts Institute of Technology"
+#  year = 2008
  
 +++
 
-# Biography
+# About
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Post Doc researcher at Princeton University working in <a
+href="http://www.princeton.edu/~mrm/"> Margaret Martonosi</a>'s
+group. My research interests are in concurrency: programming,
+modeling, testing, and architecture. In particular, I am interested
+in exploring new heterogeneous architectures and how programming models
+can enable development of secure and efficient applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My previous research focused on GPU programming, namely modeling
+the semantics of fine-grained thread interactions and using these
+insights to provide efficient and portable synchronisation idiom
+implementations.
+
+I received my PhD from the <a href="http://multicore.doc.ic.ac.uk/">
+Multicore Programming Group </a> at Imperial College London supervised
+by Alastair Donaldson. Previously, I worked with Ganesh Gopalakrishnan
+and Zvonimir Rakamaric at University of Utah. I have done internships
+at Microsoft Research and Nvidia. 

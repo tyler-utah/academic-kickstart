@@ -43,3 +43,12 @@ filter_default = 0
 
 +++
 
+<img src="img/weak_memory.gif">
+<br>
+A .gif showing the magnitude of weak memory behaviours for three
+litmus tests (MP, SB, LB) that appear when stressing individual memory
+locations of a scratchpad location. These patterns were key in finding
+and observing weak memory bugs in GPU applications (explained in
+PLDI'16 paper).
+
+<br><br>
