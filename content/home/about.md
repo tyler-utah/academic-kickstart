@@ -46,6 +46,10 @@ modeling, testing, and architecture. In particular, I am interested
 in exploring new heterogeneous architectures and how programming models
 can enable development of secure and efficient applications.
 
+I am working on the <a href="http://decades.cs.princeton.edu/">
+DECADES </a> project which is funded as part of the software defined
+hardware (SDH) project.
+
 My previous research focused on GPU programming, namely modeling
 the semantics of fine-grained thread interactions and using these
 insights to provide efficient and portable synchronisation idiom
