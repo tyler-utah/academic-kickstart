@@ -39,6 +39,10 @@ weight = 5
 
 # About
 
+<i> I am excited to announce that I will be starting Fall of 2020 at
+University of California, Santa Cruz (UCSC) as an Assistant Professor
+in Computer Science! </i>
+
 I am a Post Doc researcher at Princeton University working in <a
 href="http://www.princeton.edu/~mrm/"> Margaret Martonosi</a>'s
 group. My research interests are in concurrency: programming,
