@@ -17,6 +17,10 @@ weight = 100
 
 <table>
   <tr>
+    <td>IWOCL'19 Best Paper Award</td>
+    <td>2019</td>
+  </tr>
+  <tr>
     <td>PLDI'18 Best Paper Award</td>
     <td>2018</td>
   </tr>
